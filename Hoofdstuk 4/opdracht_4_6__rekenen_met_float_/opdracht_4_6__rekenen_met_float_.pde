@@ -18,5 +18,5 @@ println(som5);
 int som6 =10+5*2-3;
 println(som6);
 
-int getal =24.5;
+float getal =24.5;
 float resultaal = int(getal*10)/10.0;
